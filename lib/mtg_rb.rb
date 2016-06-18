@@ -1,0 +1,6 @@
+require "mtg_rb/artist"
+require "mtg_rb/card"
+require "mtg_rb/expansion"
+require "mtg_rb/multiverse"
+require "mtg_rb/printing"
+require "mtg_rb/version"
